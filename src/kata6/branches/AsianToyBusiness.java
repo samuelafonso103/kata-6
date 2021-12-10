@@ -1,6 +1,6 @@
 package kata6.branches;
 
-import kata6.business.SerialNumberGenerator;
+import kata6.factories.SerialNumberGenerator;
 import kata6.business.ToyBusiness;
 import kata6.toyproducts.Toy;
 import kata6.toyproducts.models.AsianCarToy;
